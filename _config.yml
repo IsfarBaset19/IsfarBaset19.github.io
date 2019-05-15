@@ -2,7 +2,7 @@
 highlighter: rogue
 name: Isfar Here
 description: My journey so far
-url: "http://isfarbaset19.github.io/"
+url: "https://isfarbaset19.github.io/"
 lsi: false
 
 exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
